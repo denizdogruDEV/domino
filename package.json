@@ -1,5 +1,5 @@
 {
- "homepage": "https://denizdogrudev.github.io/dominoPsikoloji/",
+ "homepage": "https://denizdogrudev.github.io/domino/",
   "name": "merve",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
   },
   "repository": {
   "type": "git",
-  "url": "https://github.com/denizdogrudev/dominoPsikoloji.git"
+  "url": "https://github.com/denizdogrudev/domino.git"
 },
   "scripts": {
     "start": "react-scripts start",
@@ -25,7 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/denizdogrudev/dominoPsikoloji.git"
+    "deploy": "gh-pages -d build -r https://github.com/denizdogrudev/domino.git"
   },
   "eslintConfig": {
     "extends": [
