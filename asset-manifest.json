@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/domino/static/css/main.da4e5056.css",
+    "main.js": "/domino/static/js/main.e5e0fca7.js",
+    "static/js/488.f1abc95b.chunk.js": "/domino/static/js/488.f1abc95b.chunk.js",
+    "index.html": "/domino/index.html",
+    "main.da4e5056.css.map": "/domino/static/css/main.da4e5056.css.map",
+    "main.e5e0fca7.js.map": "/domino/static/js/main.e5e0fca7.js.map",
+    "488.f1abc95b.chunk.js.map": "/domino/static/js/488.f1abc95b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da4e5056.css",
+    "static/js/main.e5e0fca7.js"
+  ]
+}
